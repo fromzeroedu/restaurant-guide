@@ -10,13 +10,15 @@ The country should be the country code as per the [ISO 3166-1 alpha-2](http://en
 
 Then inside you add the state/province full name (if you don't see it already) and then add the full name of the city.
 
-At that point you should have a "restaurants.md" markdown file, where you can add your favorite restaurant as follows:
+At that point you can either add or edit the "restaurants.md" markdown file, where you can add your favorite restaurant as follows:
 
+```
 [Restaurant Name] - [Type of cuisine]
 [Brief description of why you liked it]
 [Full address in one line]
 [Phone number]
 [Website (optional)]
+```
 
 And then leave an empty line to add another one.
 
