@@ -1,3 +1,10 @@
+
+Bohemian Hall & Beer Garden
+You can drink beer and let your kids run around in an open outdoor space.  Brilliant.
+2919 24th Ave, Astoria, NY 11102
+(718) 274-4925
+www.bohemianhall.com
+
 Circo - Italian
 Everything in this restaurant is delicious. It's a little expensive, but totally worth it. I specially like their simple dishes, like the Bolognese Pasta.
 120 W 55th St, New York, NY 10019
