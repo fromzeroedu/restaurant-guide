@@ -1,6 +1,6 @@
 # Welcome to the Worldwide Restaurant Guide!
 
-This is the final project for the course ["Git From Zero"](https://www.udemy.com/git-for-beginners-from-zero/) in Udemy.
+This is the final project for the course ["Git From Zero"](https://www.udemy.com/essential-git/) in Udemy.
 
 ## How it works
 
