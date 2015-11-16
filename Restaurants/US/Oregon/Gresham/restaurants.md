@@ -6,4 +6,4 @@ What people say:
 1030 E Powell Blvd
 Gresham, OR 97030
 Phone number (503) 665-8200
-www.polarking.com
+www.polarkingoregon.com
