@@ -1,0 +1,1 @@
+Andy's Shin Hinomoto - Japanese This typical Japanese bar (called "Izakaya") serves great food at a very reasonable price in the Ginza district. 2-4-4 Yurakucho Chiyoda-ku Tokyo 03-3214-8021 http://www.andysfish.com/#_=_
