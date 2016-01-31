@@ -1,0 +1,1 @@
+Jiang Ji Wonton- The wontons and meatballs are my most favorate meals. No.91, Taiping St., Miaoli City, Miaoli (360) Taiwan(ROC) +886-37-327803 http://www.tripadvisor.co.uk/Restaurant_Review-g616038-d6139328-Reviews-Jiang_Ji_Wonton-Miaoli.html
