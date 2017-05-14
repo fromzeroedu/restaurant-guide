@@ -13,11 +13,11 @@ Then inside you add the state/province full name (if you don't see it already) a
 At that point you can either add or edit the "restaurants.md" markdown file, where you can add your favorite restaurant as follows:
 
 ```
-[Restaurant Name] - [Type of cuisine]
-[Brief description of why you liked it]
-[Full address in one line]
-[Phone number]
-[Website (optional)]
+Sterlings Steakhouse - Steaks
+Best dessert in town
+407 N virginia St, Reno, NV 89501
+775-325-7573
+http://www.silverlegacyreno.com/dining/sterlings-seafood-steakhouse/
 ```
 
 And then leave an empty line to add another one.
